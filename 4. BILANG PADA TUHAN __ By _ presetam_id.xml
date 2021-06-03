@@ -1,0 +1,2021 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2021-06-03 12:11 PM
+3.2.0 (0432)
+96f4b57 (13 Apr 2020 15.59.04)
+-->
+<scene title="4. BILANG PADA TUHAN || By : presetam_id" width="1080" height="1920" exportWidth="1080" exportHeight="1920" bgcolor="#ff000000" totalTime="17028" fps="30" modifiedTime="1622697084549" amver="432" ffver="101" am="com.alightcreative.motion/3.2.0" amplatform="android">
+  <media uri="content://media/external/audio/media/1241415" filename="BILANG PADA TUHAN MU.mp3" title="BILANG PADA TUHAN MU.mp3" type="video/mp4" duration="16996000" size="2627471" infoUpdated="1622697072836" />
+  <bookmark t="3283" />
+  <bookmark t="4183" />
+  <bookmark t="4683" />
+  <bookmark t="4950" />
+  <bookmark t="5450" />
+  <bookmark t="6283" />
+  <bookmark t="6850" />
+  <bookmark t="7116" />
+  <bookmark t="7650" />
+  <bookmark t="8516" />
+  <bookmark t="9083" />
+  <bookmark t="9383" />
+  <bookmark t="9816" />
+  <bookmark t="10650" />
+  <bookmark t="11216" />
+  <bookmark t="11483" />
+  <bookmark t="12016" />
+  <bookmark t="12883" />
+  <bookmark t="13350" />
+  <bookmark t="13616" />
+  <bookmark t="14216" />
+  <bookmark t="15016" />
+  <bookmark t="15550" />
+  <bookmark t="15816" />
+  <bookmark t="16383" />
+  <audio id="337011" label="BILANG PADA TUHAN" startTime="0" endTime="16937" src="content://media/external/video/media/204961" />
+  <shape id="336746" label="presetam_id" startTime="0" endTime="3299" fillType="color" fillImage="content://media/external/images/media/12919" s=".rect">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.motionblur2">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.blink2">
+      <property name="freq" type="float" value="16.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.simplestars">
+      <property name="starParallax" type="vec2">
+        <kf t="0.002424" v="0.000000,0.000000" />
+        <kf t="2.478022" v="700.000000,0.000000" />
+        <kf t="4.650199" v="959.000000,0.000000" />
+      </property>
+      <property name="starDepth" type="float" value="0.000000" />
+      <property name="starSize" type="float">
+        <kf t="0.002424" v="0.100000" />
+        <kf t="2.478022" v="0.369000" />
+      </property>
+      <property name="starFeather" type="float" value="1.000000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="starCount" type="float" value="25.000000" />
+      <property name="brightness" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <property name="size" type="vec2" value="540.000000,960.000000" />
+  </shape>
+  <text id="337007" label="presetam_id" startTime="533" endTime="1865" fillType="color" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=900" wrapWidth="565" align="center">
+    <transform>
+      <location value="529.826721,929.928040" />
+      <scale value="1.896830,1.896830" />
+    </transform>
+    <effect id="com.alightcreative.effects.ridges">
+      <property name="parr" type="vec2">
+        <kf t="-0.044458" v="0.000000,0.000000" />
+        <kf t="1.869120" v="612.000000,0.000000" />
+      </property>
+      <property name="offs" type="vec2" value="40.000000,0.000000" />
+      <property name="evolution" type="float">
+        <kf t="-0.075075" v="0.000000" />
+        <kf t="1.901652" v="3.150000" />
+      </property>
+      <property name="scale" type="float" value="1.000000" />
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="intensity" type="float" value="1.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="color1" type="color" value="#ff17e1e1" />
+      <property name="color2" type="color" value="#ff000000" />
+      <property name="octaves" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.longshadow2">
+      <property name="size" type="float" value="0.010000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="color" type="color" value="#ff000000" />
+      <property name="alpha" type="float" value="0.952000" />
+      <property name="solidity" type="float" value="0.855000" />
+      <property name="fill" type="float" value="1.000000" />
+      <property name="fade" type="float" value="0.000000" />
+      <property name="fadeType" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="99.000000" />
+      <property name="alpha" type="float" value="0.150000" />
+      <property name="hardness" type="float" value="0.060000" />
+      <property name="color" type="color" value="#ff17e1e1" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float" value="1.080000" />
+      <property name="gamma" type="float" value="0.905000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift">
+      <property name="hue" type="float">
+        <kf t="-0.044458" v="0.000000" />
+        <kf t="1.869120" v="941.000000" />
+      </property>
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="2.500000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace">
+      <property name="mag" type="float" value="13.000000" />
+      <property name="evolution" type="float">
+        <kf t="1.901652" v="0.010000" e="cubicBezier 0.010729985 0.77307045 0.58 1.0" />
+        <kf t="-0.075075" v="6.100000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.zoomblur3">
+      <property name="strength" type="float" value="0.000000" />
+      <property name="adaptive" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="0.000000" />
+      <property name="freq" type="float" value="0.300000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="164.669998" />
+        <kf t="0.016393" v="29.940001" />
+        <kf t="0.993670" v="19.959999" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.swing">
+      <property name="freq" type="float" value="1.110000" />
+      <property name="a1" type="float">
+        <kf t="0.993670" v="0.000000" e="cubicBezier 0.0 0.81830066 0.58 1.0" />
+        <kf t="0.009494" v="-4.000000" />
+      </property>
+      <property name="a2" type="float">
+        <kf t="0.993670" v="0.000000" e="cubicBezier 0.0 0.8366013 0.58 1.0" />
+        <kf t="0.009494" v="6.000000" />
+      </property>
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="1.000000" v="0.000000" e="cubicBezier 0.0 0.14891286 0.58 1.0" />
+        <kf t="0.009484" v="2.000000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2">
+      <property name="phase" type="float">
+        <kf t="1.000000" v="0.000000" />
+        <kf t="-0.004753" v="0.070000" />
+      </property>
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float">
+        <kf t="1.000000" v="0.000000" />
+        <kf t="0.003752" v="6.500000" />
+      </property>
+      <property name="m2" type="float">
+        <kf t="0.003752" v="4.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="a2d" type="float" value="-21.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.fade">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <content>&#127926;</content>
+  </text>
+  <text id="337012" label="presetam_id" startTime="1900" endTime="3232" fillType="color" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=900" wrapWidth="565" align="center">
+    <transform>
+      <location value="535.679321,956.389282" />
+      <scale value="1.681648,1.681648" />
+    </transform>
+    <effect id="com.alightcreative.effects.ridges">
+      <property name="parr" type="vec2">
+        <kf t="-0.044458" v="0.000000,0.000000" />
+        <kf t="1.869120" v="612.000000,0.000000" />
+      </property>
+      <property name="offs" type="vec2" value="40.000000,0.000000" />
+      <property name="evolution" type="float">
+        <kf t="-0.075075" v="0.000000" />
+        <kf t="1.901652" v="3.150000" />
+      </property>
+      <property name="scale" type="float" value="1.000000" />
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="intensity" type="float" value="1.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="color1" type="color" value="#ff17e1e1" />
+      <property name="color2" type="color" value="#ff000000" />
+      <property name="octaves" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.longshadow2">
+      <property name="size" type="float" value="0.010000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="color" type="color" value="#ff000000" />
+      <property name="alpha" type="float" value="0.952000" />
+      <property name="solidity" type="float" value="0.855000" />
+      <property name="fill" type="float" value="1.000000" />
+      <property name="fade" type="float" value="0.000000" />
+      <property name="fadeType" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="99.000000" />
+      <property name="alpha" type="float" value="0.150000" />
+      <property name="hardness" type="float" value="0.060000" />
+      <property name="color" type="color" value="#ff17e1e1" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float" value="1.080000" />
+      <property name="gamma" type="float" value="0.905000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift">
+      <property name="hue" type="float">
+        <kf t="-0.044458" v="0.000000" />
+        <kf t="1.869120" v="941.000000" />
+      </property>
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="2.500000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace">
+      <property name="mag" type="float" value="13.000000" />
+      <property name="evolution" type="float">
+        <kf t="1.901652" v="0.010000" e="cubicBezier 0.010729985 0.77307045 0.58 1.0" />
+        <kf t="-0.075075" v="6.100000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.zoomblur3">
+      <property name="strength" type="float" value="0.000000" />
+      <property name="adaptive" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="0.000000" />
+      <property name="freq" type="float" value="0.300000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="164.669998" />
+        <kf t="0.016393" v="29.940001" />
+        <kf t="0.993670" v="19.959999" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.swing">
+      <property name="freq" type="float" value="1.110000" />
+      <property name="a1" type="float">
+        <kf t="0.993670" v="0.000000" e="cubicBezier 0.0 0.81830066 0.58 1.0" />
+        <kf t="0.009494" v="-4.000000" />
+      </property>
+      <property name="a2" type="float">
+        <kf t="0.993670" v="0.000000" e="cubicBezier 0.0 0.8366013 0.58 1.0" />
+        <kf t="0.009494" v="6.000000" />
+      </property>
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="1.000000" v="0.000000" e="cubicBezier 0.0 0.14891286 0.58 1.0" />
+        <kf t="0.009484" v="2.000000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2">
+      <property name="phase" type="float">
+        <kf t="1.000000" v="0.000000" />
+        <kf t="-0.004753" v="0.070000" />
+      </property>
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float">
+        <kf t="1.000000" v="0.000000" />
+        <kf t="0.003752" v="6.500000" />
+      </property>
+      <property name="m2" type="float">
+        <kf t="0.003752" v="4.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="a2d" type="float" value="-21.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.fade">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <content>BILANG PADA</content>
+  </text>
+  <shape id="337050" label="presetam_id" startTime="3266" endTime="4199" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337013" label="presetam_id" startTime="3266" endTime="4199" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.020000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337026" label="presetam_id" startTime="4166" endTime="4699" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337027" label="presetam_id" startTime="4666" endTime="4965" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.mirror">
+      <property name="type" type="int" value="0" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337028" label="presetam_id" startTime="4933" endTime="5465" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337029" label="presetam_id" startTime="5433" endTime="6299" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337051" label="presetam_id" startTime="5433" endTime="6299" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337030" label="presetam_id" startTime="6266" endTime="6865" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337031" label="presetam_id" startTime="6833" endTime="7132" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.mirror">
+      <property name="type" type="int" value="0" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337032" label="presetam_id" startTime="7100" endTime="7665" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337033" label="presetam_id" startTime="7633" endTime="8532" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337052" label="presetam_id" startTime="7633" endTime="8532" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337034" label="presetam_id" startTime="8500" endTime="9099" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337035" label="presetam_id" startTime="9066" endTime="9399" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.mirror">
+      <property name="type" type="int" value="0" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337036" label="presetam_id" startTime="9366" endTime="9832" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="539.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337037" label="presetam_id" startTime="9800" endTime="10665" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337053" label="presetam_id" startTime="9800" endTime="10665" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337038" label="presetam_id" startTime="10633" endTime="11232" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337039" label="presetam_id" startTime="11200" endTime="11499" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.mirror">
+      <property name="type" type="int" value="0" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337040" label="presetam_id" startTime="11466" endTime="12032" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337041" label="presetam_id" startTime="12000" endTime="12899" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337054" label="presetam_id" startTime="12000" endTime="12899" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337042" label="presetam_id" startTime="12866" endTime="13365" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337043" label="presetam_id" startTime="13333" endTime="13632" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.mirror">
+      <property name="type" type="int" value="0" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337044" label="presetam_id" startTime="13600" endTime="14232" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337045" label="presetam_id" startTime="14200" endTime="15032" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337055" label="presetam_id" startTime="14200" endTime="15032" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337046" label="presetam_id" startTime="15000" endTime="15565" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337047" label="presetam_id" startTime="15533" endTime="15832" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.mirror">
+      <property name="type" type="int" value="0" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337048" label="presetam_id" startTime="15800" endTime="16399" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="180.000000" />
+      <property name="freq" type="float" value="2.067000" />
+      <property name="mag" type="float">
+        <kf t="0.991992" v="1.000000" e="cubicBezier 0.0 0.75697243 0.58 1.0" />
+        <kf t="0.000000" v="284.429993" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.690566" v="0.000000" e="cubicBezier 0.0 0.58737725 0.58 1.0" />
+        <kf t="0.008008" v="1.150000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.000000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="true" />
+      <property name="useAngle" type="bool" value="true" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337049" label="presetam_id" startTime="16366" endTime="16966" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <shape id="337056" label="presetam_id" startTime="16366" endTime="16966" fillType="media" fillImage="content://media/external/images/media/1240535">
+    <transform>
+      <location value="540.000000,960.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lumakey2">
+      <property name="lowThreshold" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="1.000000" v="0.000000" />
+      </property>
+      <property name="highThreshold" type="float" value="1.000000" />
+      <property name="feather" type="float" value="0.050000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="weighted" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.glow">
+      <property name="radius" type="float" value="0.500000" />
+      <property name="alpha" type="float" value="0.580000" />
+      <property name="hardness" type="float" value="0.120000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile">
+      <property name="scale" type="float" value="1.010000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="6.837000" />
+      <property name="mag" type="float">
+        <kf t="0.000000" v="499.000000" />
+        <kf t="0.973085" v="1.000000" e="cubicBezier 0.0 1.024745 0.2178711 0.98734957" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.motionblur">
+      <property name="tune" type="float" value="1.900000" />
+      <property name="usePos" type="bool" value="true" />
+      <property name="useScale" type="bool" value="false" />
+      <property name="useAngle" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.oscillate">
+      <property name="angle" type="float" value="118.800003" />
+      <property name="freq" type="float" value="15.900000" />
+      <property name="mag" type="float">
+        <kf t="0.549754" v="1.000000" e="cubicBezier 0.0 0.9978751 0.2283202 0.98734987" />
+        <kf t="0.000000" v="499.000000" />
+      </property>
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.turbulentdisplace">
+      <property name="position" type="vec2" value="64.000000,0.000000" />
+      <property name="intensity" type="float">
+        <kf t="1.017647" v="0.000000" e="cubicBezier 0.10812056 0.4201752 0.68233436 0.89778346" />
+        <kf t="0.000000" v="0.153000" />
+      </property>
+      <property name="evolution" type="float" value="4.620000" />
+      <property name="direction" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="-0.119673" v="3.320000" />
+        <kf t="1.941557" v="0.010000" e="cubicBezier 0.0 0.76948255 0.52081007 0.9963063" />
+      </property>
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="screenSpace" type="bool" value="false" />
+      <property name="octaves" type="float" value="1.000000" />
+      <property name="offs" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure">
+      <property name="exposure" type="float">
+        <kf t="0.478142" v="0.000000" />
+        <kf t="0.000000" v="1.230000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <path d="M -537.5 -960.0L 537.5 -960.0L 537.5 960.0L -537.5 960.0L -537.5 -960.0Z" />
+  </shape>
+  <audio id="338160" label="BILANG PADA TUHAN MU.mp3" startTime="0" endTime="17028" src="content://media/external/audio/media/1241415" outTime="16996" />
+</scene>
